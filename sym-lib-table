@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Test_Pad_Proto)(type Legacy)(uri "${KICAD_USER_WORK}/00 Proiecte/Proto Board RF v2-0/05 Libs/Test_Pad_Proto.lib")(options "")(descr ""))
+)
